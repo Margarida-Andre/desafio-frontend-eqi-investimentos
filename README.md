@@ -1,1 +1,1 @@
-# desafio-frontend-eqi-investimentos-
+# desafio-frontend-eqi-investimentos
