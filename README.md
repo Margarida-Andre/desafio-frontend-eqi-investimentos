@@ -3,29 +3,30 @@
 Um app que permite fazer simulação de rendimentos de acordo com o tipo de indexação e o
 tipo de rendimento escolhido.
 
-# 💻 Tecnologias
+## 💻 Tecnologias
 
 - Reactjs
 - Typescript
 
-# 📚 Bibliotecas | frameworks | padrões
+## 📚 Bibliotecas | frameworks | padrões
 
 - Yup;
 - Styled-Components;
 - UseContext Api;
 - TDD (testing library e jest)
 
-# - Requisitos
+## - Requisitos
 
 - Node.js
 - Yarn | Npm
 
-# Como executar
+## Como executar
 
-- Faça o clone do repositório
-- Execute o comando yarn start | npm start
+- 1º Faça o clone do repositório
+- 2º Execute o comando yarn install
+- 3º Execute o comando yarn start | npm start
 
-# Resultados
+## Resultados
 
 <div align="center">
 <img height="500" width="1100" src="https://github.com/Margarida-Andre/desafio-frontend-eqi-investimentos/blob/main/src/components/assets/start.png" />
@@ -40,5 +41,5 @@ tipo de rendimento escolhido.
 </div>
 
 <div align="center">
-<img height="500" width="1100" src="https://github.com/Margarida-Andre/desafio-frontend-eqi-investimentos/blob/main/src/components/assets/mobile2.pngg" />
+<img height="500" width="1100" src="https://github.com/Margarida-Andre/desafio-frontend-eqi-investimentos/blob/main/src/components/assets/mobile2.png" />
 </div>
