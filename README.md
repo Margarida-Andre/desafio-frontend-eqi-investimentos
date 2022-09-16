@@ -8,7 +8,7 @@ tipo de rendimento escolhido.
 - Reactjs
 - Typescript
 
-## 📚 Bibliotecas | frameworks | padrões
+## 📚 Dependências | frameworks | padrões
 
 - Yup;
 - Styled-Components;
@@ -23,5 +23,5 @@ tipo de rendimento escolhido.
 ## Como executar
 
 - 1º Faça o clone do repositório
-- 2º Execute o comando yarn instal
-- 3º Execute o comando yarn start | npm start
+- 2º Execute o comando yarn install para instalar todas as dependências
+- 3º Execute o comando yarn start | npm start para inicializar o projecto
