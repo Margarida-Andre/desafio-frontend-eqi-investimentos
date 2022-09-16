@@ -15,7 +15,7 @@ tipo de rendimento escolhido.
 - UseContext Api;
 - TDD (testing library e jest)
 
-## - Requisitos
+## 🚀 Requisitos
 
 - Node.js
 - Yarn | Npm
@@ -23,7 +23,7 @@ tipo de rendimento escolhido.
 ## Como executar
 
 - 1º Faça o clone do repositório
-- 2º Execute o comando yarn install
+- 2º Execute o comando yarn instal
 - 3º Execute o comando yarn start | npm start
 
 ## Resultados
