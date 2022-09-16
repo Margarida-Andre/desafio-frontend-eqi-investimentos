@@ -15,6 +15,7 @@ tipo de rendimento escolhido.
 - Styled-Components, permite escrever código CSS;
 - UseContext Api, permite fazer o gerenciamento do estado;
 - TDD (testing library e jest), permite testar a funcionalidade dos componentes;
+- Axios, permite fazer requisições assíncronas na chamada de api;
 
 ## 🚀 Requisitos
 
