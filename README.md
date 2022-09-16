@@ -10,10 +10,11 @@ tipo de rendimento escolhido.
 
 ## 📚 Dependências | frameworks | padrões
 
-- Yup;
-- Styled-Components;
-- UseContext Api;
-- TDD (testing library e jest)
+- Yup, permite fazer a validação do formulário;
+- Formik, permite o uso de um formulário mais dinâmico;
+- Styled-Components, permite escrever código CSS;
+- UseContext Api, permite fazer o gerenciamento do estado;
+- TDD (testing library e jest), permite testar a funcionalidade dos componentes;
 
 ## 🚀 Requisitos
 
