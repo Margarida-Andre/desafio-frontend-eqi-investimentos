@@ -1,6 +1,6 @@
 # desafio-frontend-eqi-investimentos
 
-Um app que permite fazer simulação de rendimentos de acordo com o tipo de indexação e o
+Um desafio dado pela EQI Investimentos, um app que tem como foco fazer simulação de rendimentos de acordo com o tipo de indexação e o
 tipo de rendimento escolhido.
 
 ## 💻 Tecnologias
