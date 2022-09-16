@@ -24,4 +24,4 @@ tipo de rendimento escolhido.
 
 - 1º Faça o clone do repositório
 - 2º Execute o comando yarn install para instalar todas as dependências
-- 3º Execute o comando yarn start | npm start para inicializar o projecto
+- 3º Execute o comando yarn start | npm start, para inicializar o projecto
